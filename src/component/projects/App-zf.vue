@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>App-zf</h1>
+    <h1>Applicatif ZF</h1>
   </div>
   <div>
     <p>Ce projet a été développé dans le cadre de mon alternance chez Zurflüh-Feller. Il s'agit d'un applicatif interne dont l’objectif est d’importer des fichiers Excel dans des tables existantes de la base de données de l'entreprise.
