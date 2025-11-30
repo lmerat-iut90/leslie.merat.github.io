@@ -29,8 +29,8 @@ function goToScrutateur(){ page.value = 'scrutateur' }
             </div>
 
             <div class="card">
-              <h2>App-ZF</h2>
-              <p>Application développée en entreprise.</p>
+              <h2>Applicatif ZF</h2>
+              <p>Applicatif développée en entreprise.</p>
               <button class="card-btn" @click="goToApp">Voir plus</button>
             </div>
 
